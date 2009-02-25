@@ -1,0 +1,5 @@
+#name : rest { |...| ... }
+# --
+respond_to do |wants|
+  $0
+end
